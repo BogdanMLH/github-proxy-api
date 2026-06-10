@@ -40,18 +40,14 @@ GET /api/BogdanMLH/repos
 ```json
 [
   {
-    "repositoryName": "Hello-World",
-    "ownerLogin": "octocat",
-    "branches": [
-      {
-        "name": "main",
-        "lastCommitSha": "7fd1a60b01f91b314f59955a4e4d4e80d8edf11d"
-      },
-      {
-        "name": "develop",
-        "lastCommitSha": "c3d0be41ecbe669545ee3e94d31ed9a4bc91ee3c"
-      }
-    ]
+      "name": "ai-job-market-agent",
+      "ownerLogin": "BogdanMLH",
+      "branches": [
+          {
+              "name": "main",
+              "lastCommitedSha": "b0837ed0c7a35172c3d550de0ec9102b77cba023"
+          }
+      ]
   }
 ]
 ```
